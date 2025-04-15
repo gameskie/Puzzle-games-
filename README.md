@@ -1,1 +1,1 @@
-Index.html
+puzzle.html → index.html
